@@ -1,0 +1,6 @@
+NOAA NCEP Operational Wave Model Data
+
+ downloaded from https://polar.ncep.noaa.gov/waves/hindcasts/nopp-phase2/197901/partitions/
+
+Fall 2025
+John.Fay@duke.edu
